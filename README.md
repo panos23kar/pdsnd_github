@@ -1,14 +1,14 @@
-###Creation Date
+### Creation Date
 The **bikeshare** project created on *20/10/2019* while the **README.md** file created on *07/11/2019*
 
-###Bikeshare
+### Bikeshare
 The title of this project is *bikeshare*
 
-###Description
+### Description
 In this project, I made use of *Python* to explore data related to bike share systems for three major cities in the United States
 *Chicago*, *New York City*, and *Washington*
 
-###Files used
+### Files used
 Randomly selected data for the first six months of *2017* are provided for all three cities. 
 All three of the data files contain the same core six (6) columns:
 
