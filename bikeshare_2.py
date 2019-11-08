@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 
+# dictionary through which we access the data files
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
