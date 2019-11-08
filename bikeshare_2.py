@@ -156,7 +156,7 @@ def month_matcher(month):
     """
     if month.lower() == 'january' or month == '1':
         return 1, 'January'
-    elif month.lower() == 'february' or month == '2''':
+    elif month.lower() == 'february' or month == '2':
         return 2, 'February'
     elif month.lower() == 'march' or month == '3':
         return 3, 'March'
