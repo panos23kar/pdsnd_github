@@ -146,6 +146,14 @@ def month_day_hour_column(df):
 
 
 def month_matcher(month):
+    """"
+    Matches the input of the user with a month
+
+    Args:
+        (str) month - input of the user for month
+    Returns:
+        (tuple) Returns the index of a month and mont's name (capitalized first letter)
+    """
     if month.lower() == 'january' or month == '1':
         return 1, 'January'
     elif month.lower() == 'february' or month == '2''':
